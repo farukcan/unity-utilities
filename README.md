@@ -1,4 +1,4 @@
-# Unity Utilities Türkçe
+# Unity Utilities Türkçe - Faydalı ve Yardımcı Kodlar
 Bu repo da Unity de yardımcı faydalı kodları ve kütüphaneleri sizin için listeledim. Kod ulaşmak için başlığa tıklamanız yeterli.
 
 ### [RunB83](https://downgit.github.io/#/home?url=https://github.com/farukcan/unity-utilities/tree/main/RunB83)
