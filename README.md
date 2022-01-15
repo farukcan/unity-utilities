@@ -19,5 +19,7 @@ Yönleri daha kolay yönetmek ve karıştırmamak için bir extension.  ``AxisEx
 
 ### [Child Selector](https://gist.github.com/farukcan/cb7865963f59d4e3e6451a11dfcc0f3a)
 Bir objenin childini ismiyle (veya random) enable etmek bir kod parçasıdır. Childleri seçilmek istenen objenin üzerine eklenir.
+[NextBackList](https://gist.github.com/farukcan/b23716f35b81efeee3c53c0b2180fc12) ile de objenin bir sonraki childini seçebilirsiniz.
 
 ![ss](https://i.imgur.com/yO3ETJ3.png)
+![ss2](https://i.imgur.com/yK2sAmm.png)
