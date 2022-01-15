@@ -16,3 +16,8 @@ Bir objeye birden fazla tag ekleyip, (Normalde unityde her objenin bir tagı var
 Yönleri daha kolay yönetmek ve karıştırmamak için bir extension.  ``AxisExtension.GetVector(transform,Axis.LEFT)`` diyerek o objenin solunun vektörünü alabiliyorsunuz. Aynı şehilde. Yönler Enum olarak ifade edildiği için, Axis tipini classe eklerseniz editörden yön seçebilirsiniz.
 
 ![ss](https://i.imgur.com/bUWb61a.png)
+
+### [Child Selector](https://gist.github.com/farukcan/cb7865963f59d4e3e6451a11dfcc0f3a)
+Bir objenin childini ismiyle (veya random) enable etmek bir kod parçasıdır. Childleri seçilmek istenen objenin üzerine eklenir.
+
+![ss](https://i.imgur.com/yO3ETJ3.png)
