@@ -1,5 +1,10 @@
 # Unity Utilities Türkçe - Faydalı ve Yardımcı Kodlar
-Bu repo da Unity de yardımcı faydalı kodları ve kütüphaneleri sizin için listeledim. Kod ulaşmak için başlığa tıklamanız yeterli.
+Bu repo da Unity de yardımcı faydalı kodları ve kütüphaneleri sizin için listeledim. Bu kodlar çok işlevsel olduğu için, her seferinde yeni bir script oluşturmadan işlerini halledebiliyorsunuz.
+
+`` En iyi strateji savaşmadan kazanmaktır. En iyi komutan savaşmadan kazanandır. - Sun Tzu ``
+Başka bir değişme, en iyi yazılımcı kod yazmadan işi halledendir.
+
+Kod ulaşmak için başlığa tıklamanız yeterli.
 
 ### [RunB83](https://downgit.github.io/#/home?url=https://github.com/farukcan/unity-utilities/tree/main/RunB83)
 Coroutine'leri sıkıcı buluyorsanız, javascript tarzı callbacklere bağlı bir araçla o işleri halledebilirsiniz. ``Run.After(1f,DoSomething)`` gibi açık bir şekilde heryerde coroutinelerinin yerine bunu kullanabilirsin.
@@ -29,3 +34,8 @@ Bir objenin childini ismiyle (veya random) enable etmek bir kod parçasıdır. C
 
 ![ss](https://i.imgur.com/yO3ETJ3.png)
 ![ss2](https://i.imgur.com/yK2sAmm.png)
+
+### [Delay](https://gist.github.com/farukcan/ddf7dfb10759de66db5a73801073b28f)
+UnityEventleri kullanmayı seviyorsanız bunu da seveceksiniz. Komutlara kod yazmadan gecikme ekleyebiliyorsunuz. Bu sayede yeni bir script oluşturmaktan kurtuluyorsunuz.
+
+![ss](https://i.imgur.com/loM9Xdy.gif)
