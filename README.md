@@ -22,9 +22,10 @@ Yönleri daha kolay yönetmek ve karıştırmamak için bir extension.  ``AxisEx
 ![ss](https://i.imgur.com/bUWb61a.png)
 
 ### [Child Selector](https://gist.github.com/farukcan/cb7865963f59d4e3e6451a11dfcc0f3a)
-Bir objenin childini ismiyle (veya random) enable etmek bir kod parçasıdır. Childleri seçilmek istenen objenin üzerine eklenir.
+Bir objenin childini ismiyle (veya random) enable etmek bir kod parçasıdır. Childleri seçilmek istenen objenin üzerine eklenir. Hem koddan hemde unity editor ile kullanılabilir. Kod yazmadan sadece arayüz butonları ile menü geçişlerini yapabilirsiniz.
 
-[NextBackList](https://gist.github.com/farukcan/b23716f35b81efeee3c53c0b2180fc12) ile de objenin bir sonraki childini seçebilirsiniz.
+[NextBackList](https://gist.github.com/farukcan/b23716f35b81efeee3c53c0b2180fc12) ile de objenin bir sonraki childini seçebilirsiniz. Next - Back butonlu arayüzlürde ve menü geçişlerinde iş görüyor.
+[ChildSelectorSync](https://gist.github.com/farukcan/2b018fea70fea9fbbe829bb3b5c807d7) ile iki objenin aynı isimde childlarını senkronize edebilirsiniz. Komplex menu yapılarında ve arayüzlerde çok iyi iş görüyor.
 
 ![ss](https://i.imgur.com/yO3ETJ3.png)
 ![ss2](https://i.imgur.com/yK2sAmm.png)
