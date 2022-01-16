@@ -38,4 +38,4 @@ Bir objenin childini ismiyle (veya random) enable etmek bir kod parçasıdır. C
 ### [Delay](https://gist.github.com/farukcan/ddf7dfb10759de66db5a73801073b28f)
 UnityEventleri kullanmayı seviyorsanız bunu da seveceksiniz. Komutlara kod yazmadan gecikme ekleyebiliyorsunuz. Bu sayede yeni bir script oluşturmaktan kurtuluyorsunuz.
 
-![ss](https://i.imgur.com/loM9Xdy.gif)
+![ss](https://i.imgur.com/v8xqdDR.gif)
