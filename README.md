@@ -1,7 +1,8 @@
 # Unity Utilities Türkçe - Faydalı ve Yardımcı Kodlar
-Bu repo da Unity de yardımcı faydalı kodları ve kütüphaneleri sizin için listeledim. Bu kodlar çok işlevsel olduğu için, her seferinde yeni bir script oluşturmadan işlerini halledebiliyorsunuz.
+Bu repo da Unity de yardımcı faydalı kodları ve kütüphaneleri sizin için listeledim. Bu kodlar çok işlevli olduğu için, her seferinde yeni bir script oluşturmadan işlerinizi halledebiliyorsunuz.
 
 `` En iyi strateji savaşmadan kazanmaktır. En iyi komutan savaşmadan kazanandır. - Sun Tzu ``
+
 Başka bir değişme, en iyi yazılımcı kod yazmadan işi halledendir.
 
 Kod ulaşmak için başlığa tıklamanız yeterli.
