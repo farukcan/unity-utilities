@@ -12,7 +12,7 @@ Object Pooling çok önemli bir optimizasyon yöntemidir. Objeleri her seferinde
 oyunun akıcılığı konusunda büyük optimizasyon sağlar
 
 
-![ss](https://i.imgur.com/IagfxEN.gif)
+![ss](/CTsHoqn9dq.gif)
 
 ### [RunB83](https://downgit.github.io/#/home?url=https://github.com/farukcan/unity-utilities/tree/main/RunB83)
 Coroutine'leri sıkıcı buluyorsanız, javascript tarzı callbacklere bağlı bir araçla o işleri halledebilirsiniz. ``Run.After(1f,DoSomething)`` gibi açık bir şekilde heryerde coroutinelerinin yerine bunu kullanabilirsin.
