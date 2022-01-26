@@ -3,7 +3,7 @@ Bu repo da Unity de yardımcı faydalı kodları ve kütüphaneleri sizin için 
 
 `` En iyi strateji savaşmadan kazanmaktır. En iyi komutan savaşmadan kazanandır. - Sun Tzu ``
 
-Başka bir deyişle, "en iyi yazılımcı kod yazmadan işi halledendir."
+Başka bir deyişle, ``en iyi yazılımcı kod yazmadan işi bitirendir. ``
 
 Kod ulaşmak için başlığa tıklamanız yeterli.
 
