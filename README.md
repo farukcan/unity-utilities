@@ -7,6 +7,13 @@ Başka bir deyişle, ``en iyi yazılımcı kod yazmadan işi bitirendir. ``
 
 Kod ulaşmak için başlığa tıklamanız yeterli.
 
+### [Pool](https://gist.github.com/farukcan/3a317afc2737822e29bbb18f919f4381)
+Object Pooling çok önemli bir optimizasyon yöntemidir. Objeleri her seferinde instantiate etmek yerine bir seferinde yapıp, o havuzdan çekerek aktif hale getirmek
+oyunun akıcılığı konusunda büyük optimizasyon sağlar
+
+
+![ss](https://i.imgur.com/IagfxEN.gif)
+
 ### [RunB83](https://downgit.github.io/#/home?url=https://github.com/farukcan/unity-utilities/tree/main/RunB83)
 Coroutine'leri sıkıcı buluyorsanız, javascript tarzı callbacklere bağlı bir araçla o işleri halledebilirsiniz. ``Run.After(1f,DoSomething)`` gibi açık bir şekilde heryerde coroutinelerinin yerine bunu kullanabilirsin.
 
