@@ -14,6 +14,11 @@ oyunun akıcılığı konusunda büyük optimizasyon sağlar
 
 ![ss](/CTsHoqn9dq.gif)
 
+### [Explosion](https://gist.github.com/farukcan/861840a1872fe3a4864cb9c528087e5f)
+Fiziksel bir patlama yaratmak için pratik bir kod parçası. Patlamanın çapını, şiddetini, yukarı itkisini ayarlabiliyorsunuz. Ayrıca titreşim desteği de var.
+
+![ss](https://i.imgur.com/ksPBQiQ.gif)
+
 ### [RunB83](https://downgit.github.io/#/home?url=https://github.com/farukcan/unity-utilities/tree/main/RunB83)
 Coroutine'leri sıkıcı buluyorsanız, javascript tarzı callbacklere bağlı bir araçla o işleri halledebilirsiniz. ``Run.After(1f,DoSomething)`` gibi açık bir şekilde heryerde coroutinelerinin yerine bunu kullanabilirsin.
 
@@ -47,8 +52,3 @@ Bir objenin childini ismiyle (veya random) enable etmek bir kod parçasıdır. C
 UnityEventleri kullanmayı seviyorsanız bunu da seveceksiniz. Komutlara kod yazmadan gecikme ekleyebiliyorsunuz. Bu sayede yeni bir script oluşturmaktan kurtuluyorsunuz.
 
 ![ss](https://i.imgur.com/v8xqdDR.gif)
-
-### [Explosion](https://gist.github.com/farukcan/861840a1872fe3a4864cb9c528087e5f)
-Fiziksel bir patlama yaratmak için pratik bir kod parçası. Patlamanın çapını, şiddetini, yukarı itkisini ayarlabiliyorsunuz. Ayrıca titreşim desteği de var.
-
-![ss](https://i.imgur.com/ksPBQiQ.gif)
