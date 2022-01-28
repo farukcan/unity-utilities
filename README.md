@@ -5,7 +5,7 @@ Bu repo da Unity de yardımcı faydalı kodları ve kütüphaneleri sizin için 
 
 Başka bir deyişle, ``en iyi yazılımcı kod yazmadan işi bitirendir. ``
 
-Kod ulaşmak için başlığa tıklamanız yeterli.
+Koda ulaşmak için başlığa tıklamanız yeterli.
 
 ### [Pool](https://gist.github.com/farukcan/3a317afc2737822e29bbb18f919f4381)
 Object Pooling çok önemli bir optimizasyon yöntemidir. Objeleri her seferinde instantiate etmek yerine bir seferinde yapıp, o havuzdan çekerek aktif hale getirmek
