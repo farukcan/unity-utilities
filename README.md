@@ -19,6 +19,12 @@ Fiziksel bir patlama yaratmak için pratik bir kod parçası. Patlamanın çapı
 
 ![ss](https://i.imgur.com/ksPBQiQ.gif)
 
+### [Infinite Line Placer](https://gist.github.com/farukcan/2651b445510492ebee2cfc4f3b7c3c35)
+Sonsuz leveller tasarlamak istiyorsanız bu kütüphane ile Pooling yaparak, bir sonsuz çizgi(ışın) üzerinde öngörülebilir rastgelilik dahilde sınırsız şekilde obje yerleştirmeleri yapabilirsiniz. 
+
+Youtubeda izlemek için resme tıkla
+[![youtube](https://img.youtube.com/vi/uq8KGcLmKvA/maxresdefault.jpg)](https://www.youtube.com/watch?v=uq8KGcLmKvA)
+
 ### [RunB83](https://downgit.github.io/#/home?url=https://github.com/farukcan/unity-utilities/tree/main/RunB83)
 Coroutine'leri sıkıcı buluyorsanız, javascript tarzı callbacklere bağlı bir araçla o işleri halledebilirsiniz. ``Run.After(1f,DoSomething)`` gibi açık bir şekilde heryerde coroutinelerinin yerine bunu kullanabilirsin.
 
